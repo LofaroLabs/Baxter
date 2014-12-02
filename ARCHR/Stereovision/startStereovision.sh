@@ -1,4 +1,8 @@
 #!/bin/sh
+# Project ARCHR: Mannan Javid (mannanj90@gmail.com) 
+# 		  		 Patrick Early
+#          		 Eric Eide
+#         	     Martyna Bula
 cd /home/archr/projects/archr_Code/Baxter/Stereovision/streaming && gnome-terminal --tab --command "python left.py" #--tab -e "python right.py"   
 echo "======Stream started. There should be 2 tabs open======"
 echo "======The left stream, and the right stream=="

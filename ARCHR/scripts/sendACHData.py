@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # /* -*-  indent-tabs-mode:t; tab-width: 8; c-basic-offset: 8  -*- */
 # /*
+# Project ARCHR: Mannan Javid (mannanj90@gmail.com) 
+# 		  		 Patrick Early
+#          		 Eric Eide
+#         	     Martyna Bula
 # Copyright (c) 2013, Daniel M. Lofaro
 # All rights reserved.
 #

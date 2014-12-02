@@ -1,8 +1,9 @@
 /*
 * 
-*
-*
-*
+* Project ARCHR: Mannan Javid (mannanj90@gmail.com) 
+* Patrick Early
+* Eric Eide
+* Martyna Bula
 *
 * Original Author: sagar
 *

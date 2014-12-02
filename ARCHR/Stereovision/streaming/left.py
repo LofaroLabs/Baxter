@@ -1,5 +1,9 @@
 #!/usr/bin/python
 '''
+ Project ARCHR: Mannan Javid (mannanj90@gmail.com) 
+ 		  		 Patrick Early
+          		 Eric Eide
+         	     Martyna Bula
 	orig author: Igor Maculan - n3wtron@gmail.com
 	A Simple mjpg stream http server
 '''

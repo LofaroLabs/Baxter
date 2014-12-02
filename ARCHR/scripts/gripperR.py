@@ -1,5 +1,8 @@
 #!/usr/bin/env python
-
+# Project ARCHR: Mannan Javid (mannanj90@gmail.com) 
+# 		  		 Patrick Early
+#          		 Eric Eide
+#         	     Martyna Bula
 # Copyright (c) 2013-2014, Rethink Robotics
 # All rights reserved.
 #

@@ -1,4 +1,8 @@
 #!/bin/sh
+# Project ARCHR: Mannan Javid (mannanj90@gmail.com) 
+# 		  		 Patrick Early
+#          		 Eric Eide
+#         	     Martyna Bula
 echo "======Enabling robot and telling him to shush.======"
 rosrun baxter_tools enable_robot.py -e
 rostopic pub -1 /robot/sonar/head_sonar/set_sonars_enabled std_msgs/UInt16 0
